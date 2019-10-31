@@ -1,0 +1,36 @@
+html,
+body {
+    margin:0;
+    padding:0;
+    background-color:#95aa9e;
+    font-family: Roboto;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    height: 16px;
+    color: #fff;
+    padding: 5px 25px;
+}
+
+.main-header li {
+    list-style:none;
+    color: #fff;
+}
+   
+.main-navigation__option {
+    text-decoration: none;
+    font-weight: bold;
+    color:#ffffff;
+    border-bottom: 1px solid #b3cbbd;   
+}
+
+.main-navigation li:not(:first-child) {
+    padding-left: 28px;
+}
+
+
+.user-navigation li:not(:first-child) {
+    padding-left: 28px;
+}
