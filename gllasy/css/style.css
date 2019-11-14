@@ -334,25 +334,6 @@ a:hover {
     font-size: 30px;
 }
 
-/*eblivaya zalupa
-.main-item-hover {
-    display: none;
-    width: 267px;
-    height: 405px;
-}
-
-.main-item:hover .main-item-hover {
-    position: absolute;    
-    width: 267px;
-    height: 405px;
-    display: flex;
-    background-color: #b3cbbd  0,7;
-}
-
-.main-item-hover button {
-    margin: 350px auto 10px;
-}*/
-
 .competitive-advantages {    
  background-image: url('../img/wafer-bg-pattern.jpg');
  border-radius: 23px;
